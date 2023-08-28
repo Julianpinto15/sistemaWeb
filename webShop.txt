@@ -1,0 +1,25 @@
+Planteamiento del proyecto.
+
+
+Problematica.
+
+Existe un suspermercado en el municipio de Guadalupe que se encarga de comercializar productos por unidad y al por mayor, cuenta con el servicio de domicilio, pero para adquirir algun producto o usar el servicio el cliente debe ir personalmente a hacer su peticion. esto causa un deficid de clientes y ventas, ya que algunos por problemas de transporte hace que no se puedan dirigir al supermercado.
+
+
+Solucion.
+
+Objetivo General.
+
+Diseñar, desarrollar e implementar un sistema de información web eficiente y funcional que permita la comercialización efectiva de productos y servicios en el supermercado, incluyendo opciones para la compra y venta de productos tanto por unidad como al por mayor. 
+
+Objetivo especifico.
+
+1.	Desarrollar una interfaz de usuario web que sea fácil de navegar y comprender, permitiendo a los usuarios explorar los productos y servicios disponibles, revisar sus detalles y realizar compras de manera eficiente.
+
+2.	Diseñar un sistema robusto de gestión de inventario que permita al supermercado llevar un registro de los niveles de stock de productos. El sistema deberá notificar automáticamente cuando los niveles de inventario sean bajos, facilitando la reposición oportuna de productos.
+
+3.	Diseñar un carrito de compras virtual donde los clientes puedan agregar y gestionar los productos que desean adquirir. Además, implementar un sistema de pagos en línea seguro que admita diversas formas de pago, brindando a los usuarios una experiencia de compra sin problemas.
+
+4.	Desarrollar un proceso de compra y venta que ofrezca a los clientes la posibilidad de adquirir productos tanto en unidades individuales como al por mayor. El sistema deberá calcular automáticamente los precios y descuentos correspondientes según la cantidad de productos seleccionados.
+
+
